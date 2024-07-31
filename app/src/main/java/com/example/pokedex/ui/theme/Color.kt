@@ -3,8 +3,8 @@ package com.example.pokedex.ui.theme
 import androidx.compose.ui.graphics.Color
 
 // Buttons color
-private val DarkBackground = Color(0xFF0D0D3D)
-private val TextPrimary = Color(0xFFFFFFFF)
+ val DarkBackground = Color(0xFF0D0D3D)
+ val TextPrimary = Color(0xFFFFFFFF)
 val ButtonDefault = Color(0xFF000000)
 val ButtonWater = Color(0xFF4A90E2)
 val ButtonDragon = Color(0xFF0072BB)
