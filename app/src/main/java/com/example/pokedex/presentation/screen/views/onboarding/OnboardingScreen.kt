@@ -1,4 +1,4 @@
-package com.example.pokedex.presentation.screen.views
+package com.example.pokedex.presentation.screen.views.onboarding
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
