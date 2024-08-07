@@ -88,4 +88,7 @@ dependencies {
     //Singleton
     implementation (libs.hilt.android)
 
+    //Project Modules
+    implementation(project(":onboarding"))
+
 }
