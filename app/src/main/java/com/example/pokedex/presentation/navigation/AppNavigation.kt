@@ -14,7 +14,7 @@ fun AppNavigation(
     Surface {
         NavHost(navController = navController, startDestination = OnboardingScreen.Start.route) {
             composable(OnboardingScreen.Start.route) {
-                    OnboardingScreen()
+                   // OnboardingScreen()
 //            }
 //            composable(
 //                route = "${Screen.Suggestion.route}/?productName={productName}&productDescription={productDescription}&imageUri={imageUri}",
